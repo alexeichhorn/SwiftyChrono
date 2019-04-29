@@ -85,7 +85,7 @@ public struct Chrono {
     }
     
     public func parseDate(text: String, refDate: Date = Date(), opt: [OptionType: Int] = [:]) -> Date? {
-        let results = Chrono.casual.parse(text: text, refDate: refDate, opt: opt)
+        let results = parse(text: text, refDate: refDate, opt: opt)
         return results.first?.start.date
     }
     
