@@ -39,7 +39,7 @@ public class ENMonthNameLittleEndianParser: Parser {
         let (matchText, index) = matchTextAndIndex(from: text, andMatchResult: match)
         var result = ParsedResult(ref: ref, index: index, text: matchText)
         
-        let month = EN_MONTH_OFFSET[match.string(from: text, atRangeIndex: monthNameGroup).lowercased()]!
+        guard let month = EN_MONTH_OFFSET[match.string(from: text, atRangeIndex: monthNameGroup).lowercased()] else { return nil }
         
         let day = match.isNotEmpty(atRangeIndex: dateNumGroup) ?
             Int(match.string(from: text, atRangeIndex: dateNumGroup))! :
