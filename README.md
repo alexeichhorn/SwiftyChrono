@@ -106,7 +106,7 @@ chrono.parseDate(text: "Bring a book tomorrow morning", refDate: refDate, opt: [
 /// specify the preferred language will let the answer more acurate
 chrono.parse(text: "you can do it tomorrow", refDate: refDate).map{ $0.text }
 // ["do", "tomorrow"]
-Chrono.preferredLanguage = .english
+chrono.preferredLanguage = .english
 chrono.parse(text: "you can do it tomorrow", refDate: refDate).map{ $0.text }
 // ["tomorrow"]
 

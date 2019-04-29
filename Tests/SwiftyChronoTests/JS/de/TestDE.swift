@@ -24,7 +24,8 @@ class TestDE: ChronoJSXCTestCase {
     
     func testExample() {
         Chrono.sixMinutesFixBefore1900 = true
-        
+        chrono.preferredLanguage = .german
+
         for fileName in files {
             let js = try! String(contentsOfFile: resourcePath(name: fileName, type: "js"))
             evalJS(js, fileName: fileName)

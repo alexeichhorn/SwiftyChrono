@@ -17,7 +17,7 @@ public protocol ChronoJSTestable {
 public class ChronoJSXCTestCase: XCTestCase, ChronoJSTestable {
     
     let jsContext = JSContext()!
-    let chrono = Chrono()
+    var chrono = Chrono()
     var testTitle = ""
     
     /// we assign each js call from chrono parse to those variables, so the value while test fail occur will be the corresponding value
@@ -46,9 +46,7 @@ public class ChronoJSXCTestCase: XCTestCase, ChronoJSTestable {
 
     override public func setUp() {
         super.setUp()
-        
-        Chrono.preferredLanguage = nil
-        
+                
         /// Handle Error
         jsContext.exceptionHandler = { context, exception in
             let stacktrace = exception?.objectForKeyedSubscript("stack").toString()

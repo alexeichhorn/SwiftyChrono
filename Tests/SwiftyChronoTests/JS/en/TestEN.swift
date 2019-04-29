@@ -31,7 +31,7 @@ class TestEN: ChronoJSXCTestCase {
     func testExample() {
         Chrono.sixMinutesFixBefore1900 = true
         // there are few words conflict with german day keywords
-        Chrono.preferredLanguage = .english
+        chrono.preferredLanguage = .english
         
         for fileName in files {
             let js = try! String(contentsOfFile: resourcePath(name: fileName, type: "js"))
