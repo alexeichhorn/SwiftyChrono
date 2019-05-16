@@ -729,6 +729,52 @@
 		C4B94AA31E363B9A00B703E7 /* TestUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B94A9E1E363B9A00B703E7 /* TestUtil.swift */; };
 		C4B94AA41E363B9A00B703E7 /* TestUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B94A9E1E363B9A00B703E7 /* TestUtil.swift */; };
 		C4B94AA51E363B9A00B703E7 /* TestUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B94A9E1E363B9A00B703E7 /* TestUtil.swift */; };
+		C4D666A8228D4926001A0734 /* Chrono+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E93454228B693E0076AFC0 /* Chrono+DSL.swift */; };
+		C4D666AC228D496B001A0734 /* ChronoTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666A6228D4900001A0734 /* ChronoTestCase.swift */; };
+		C4D666AD228D496B001A0734 /* ChronoTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666A6228D4900001A0734 /* ChronoTestCase.swift */; };
+		C4D666AE228D496C001A0734 /* ChronoTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666A6228D4900001A0734 /* ChronoTestCase.swift */; };
+		C4D666BF228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B1228D4B4D001A0734 /* ENWeekdayTests.swift */; };
+		C4D666C0228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B1228D4B4D001A0734 /* ENWeekdayTests.swift */; };
+		C4D666C1228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B1228D4B4D001A0734 /* ENWeekdayTests.swift */; };
+		C4D666C2228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B2228D4B4D001A0734 /* ENLittleEndianTests.swift */; };
+		C4D666C3228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B2228D4B4D001A0734 /* ENLittleEndianTests.swift */; };
+		C4D666C4228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B2228D4B4D001A0734 /* ENLittleEndianTests.swift */; };
+		C4D666C5228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B3228D4B4D001A0734 /* ENMiddleEndianTests.swift */; };
+		C4D666C6228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B3228D4B4D001A0734 /* ENMiddleEndianTests.swift */; };
+		C4D666C7228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B3228D4B4D001A0734 /* ENMiddleEndianTests.swift */; };
+		C4D666C8228D4B4D001A0734 /* ENSlashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B4228D4B4D001A0734 /* ENSlashTests.swift */; };
+		C4D666C9228D4B4D001A0734 /* ENSlashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B4228D4B4D001A0734 /* ENSlashTests.swift */; };
+		C4D666CA228D4B4D001A0734 /* ENSlashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B4228D4B4D001A0734 /* ENSlashTests.swift */; };
+		C4D666CB228D4B4D001A0734 /* ENTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B5228D4B4D001A0734 /* ENTests.swift */; };
+		C4D666CC228D4B4D001A0734 /* ENTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B5228D4B4D001A0734 /* ENTests.swift */; };
+		C4D666CD228D4B4D001A0734 /* ENTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B5228D4B4D001A0734 /* ENTests.swift */; };
+		C4D666CE228D4B4D001A0734 /* ENDashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B6228D4B4D001A0734 /* ENDashTests.swift */; };
+		C4D666CF228D4B4D001A0734 /* ENDashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B6228D4B4D001A0734 /* ENDashTests.swift */; };
+		C4D666D0228D4B4D001A0734 /* ENDashTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B6228D4B4D001A0734 /* ENDashTests.swift */; };
+		C4D666D1228D4B4D001A0734 /* ENInterStdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B7228D4B4D001A0734 /* ENInterStdTests.swift */; };
+		C4D666D2228D4B4D001A0734 /* ENInterStdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B7228D4B4D001A0734 /* ENInterStdTests.swift */; };
+		C4D666D3228D4B4D001A0734 /* ENInterStdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B7228D4B4D001A0734 /* ENInterStdTests.swift */; };
+		C4D666D4228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B8228D4B4D001A0734 /* ENDeadlineTests.swift */; };
+		C4D666D5228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B8228D4B4D001A0734 /* ENDeadlineTests.swift */; };
+		C4D666D6228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B8228D4B4D001A0734 /* ENDeadlineTests.swift */; };
+		C4D666D7228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B9228D4B4D001A0734 /* ENTimeAgoTests.swift */; };
+		C4D666D8228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B9228D4B4D001A0734 /* ENTimeAgoTests.swift */; };
+		C4D666D9228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666B9228D4B4D001A0734 /* ENTimeAgoTests.swift */; };
+		C4D666DA228D4B4D001A0734 /* ENRelativeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BA228D4B4D001A0734 /* ENRelativeTests.swift */; };
+		C4D666DB228D4B4D001A0734 /* ENRelativeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BA228D4B4D001A0734 /* ENRelativeTests.swift */; };
+		C4D666DC228D4B4D001A0734 /* ENRelativeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BA228D4B4D001A0734 /* ENRelativeTests.swift */; };
+		C4D666DD228D4B4D001A0734 /* ENMonthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BB228D4B4D001A0734 /* ENMonthTests.swift */; };
+		C4D666DE228D4B4D001A0734 /* ENMonthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BB228D4B4D001A0734 /* ENMonthTests.swift */; };
+		C4D666DF228D4B4D001A0734 /* ENMonthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BB228D4B4D001A0734 /* ENMonthTests.swift */; };
+		C4D666E0228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BC228D4B4D001A0734 /* ENOptionForwardTests.swift */; };
+		C4D666E1228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BC228D4B4D001A0734 /* ENOptionForwardTests.swift */; };
+		C4D666E2228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BC228D4B4D001A0734 /* ENOptionForwardTests.swift */; };
+		C4D666E3228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BD228D4B4D001A0734 /* ENTimeExpTests.swift */; };
+		C4D666E4228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BD228D4B4D001A0734 /* ENTimeExpTests.swift */; };
+		C4D666E5228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BD228D4B4D001A0734 /* ENTimeExpTests.swift */; };
+		C4D666E6228D4B4D001A0734 /* ENCasualTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BE228D4B4D001A0734 /* ENCasualTests.swift */; };
+		C4D666E7228D4B4D001A0734 /* ENCasualTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BE228D4B4D001A0734 /* ENCasualTests.swift */; };
+		C4D666E8228D4B4D001A0734 /* ENCasualTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D666BE228D4B4D001A0734 /* ENCasualTests.swift */; };
 		C4DFF43F1E30CA1000E851B1 /* ENDeadlineFormatParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF43E1E30CA1000E851B1 /* ENDeadlineFormatParser.swift */; };
 		C4DFF4401E30CA1000E851B1 /* ENDeadlineFormatParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF43E1E30CA1000E851B1 /* ENDeadlineFormatParser.swift */; };
 		C4DFF4411E30CA1000E851B1 /* ENDeadlineFormatParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF43E1E30CA1000E851B1 /* ENDeadlineFormatParser.swift */; };
@@ -745,6 +791,8 @@
 		C4DFF4581E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF4561E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift */; };
 		C4DFF4591E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF4561E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift */; };
 		C4DFF45A1E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DFF4561E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift */; };
+		C4E93456228B69880076AFC0 /* Chrono+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E93454228B693E0076AFC0 /* Chrono+DSL.swift */; };
+		C4E93457228B69880076AFC0 /* Chrono+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E93454228B693E0076AFC0 /* Chrono+DSL.swift */; };
 		C4ED159C1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ED159B1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift */; };
 		C4ED159D1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ED159B1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift */; };
 		C4ED159E1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ED159B1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift */; };
@@ -951,10 +999,26 @@
 		C4B94A821E360D4B00B703E7 /* ENWeekdayParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENWeekdayParser.swift; sourceTree = "<group>"; };
 		C4B94A921E36170A00B703E7 /* ENPrioritizeSpecificDateRefiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENPrioritizeSpecificDateRefiner.swift; sourceTree = "<group>"; };
 		C4B94A9E1E363B9A00B703E7 /* TestUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestUtil.swift; sourceTree = "<group>"; };
+		C4D666A6228D4900001A0734 /* ChronoTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChronoTestCase.swift; sourceTree = "<group>"; };
+		C4D666B1228D4B4D001A0734 /* ENWeekdayTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENWeekdayTests.swift; sourceTree = "<group>"; };
+		C4D666B2228D4B4D001A0734 /* ENLittleEndianTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENLittleEndianTests.swift; sourceTree = "<group>"; };
+		C4D666B3228D4B4D001A0734 /* ENMiddleEndianTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENMiddleEndianTests.swift; sourceTree = "<group>"; };
+		C4D666B4228D4B4D001A0734 /* ENSlashTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENSlashTests.swift; sourceTree = "<group>"; };
+		C4D666B5228D4B4D001A0734 /* ENTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENTests.swift; sourceTree = "<group>"; };
+		C4D666B6228D4B4D001A0734 /* ENDashTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENDashTests.swift; sourceTree = "<group>"; };
+		C4D666B7228D4B4D001A0734 /* ENInterStdTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENInterStdTests.swift; sourceTree = "<group>"; };
+		C4D666B8228D4B4D001A0734 /* ENDeadlineTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENDeadlineTests.swift; sourceTree = "<group>"; };
+		C4D666B9228D4B4D001A0734 /* ENTimeAgoTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENTimeAgoTests.swift; sourceTree = "<group>"; };
+		C4D666BA228D4B4D001A0734 /* ENRelativeTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENRelativeTests.swift; sourceTree = "<group>"; };
+		C4D666BB228D4B4D001A0734 /* ENMonthTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENMonthTests.swift; sourceTree = "<group>"; };
+		C4D666BC228D4B4D001A0734 /* ENOptionForwardTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENOptionForwardTests.swift; sourceTree = "<group>"; };
+		C4D666BD228D4B4D001A0734 /* ENTimeExpTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENTimeExpTests.swift; sourceTree = "<group>"; };
+		C4D666BE228D4B4D001A0734 /* ENCasualTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENCasualTests.swift; sourceTree = "<group>"; };
 		C4DFF43E1E30CA1000E851B1 /* ENDeadlineFormatParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ENDeadlineFormatParser.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C4DFF4461E30CDF300E851B1 /* ENUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENUtil.swift; sourceTree = "<group>"; };
 		C4DFF44E1E31A3FF00E851B1 /* ENISOFormatParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ENISOFormatParser.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C4DFF4561E31BC2400E851B1 /* ENMonthNameLittleEndianParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ENMonthNameLittleEndianParser.swift; sourceTree = "<group>"; };
+		C4E93454228B693E0076AFC0 /* Chrono+DSL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chrono+DSL.swift"; sourceTree = "<group>"; };
 		C4ED159B1E37115D00C4676B /* ExtractTimezoneAbbrRefiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtractTimezoneAbbrRefiner.swift; sourceTree = "<group>"; };
 		C4ED15A31E3735FD00C4676B /* ExtractTimezoneOffsetRefiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtractTimezoneOffsetRefiner.swift; sourceTree = "<group>"; };
 		C4ED15AB1E373E5B00C4676B /* ForwardDateRefiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForwardDateRefiner.swift; sourceTree = "<group>"; };
@@ -1079,6 +1143,7 @@
 		BBB55AC01C8F80020050DDA9 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				C4D666AF228D49F9001A0734 /* DSL */,
 				C43A78281E484B5E005E3BFF /* JS */,
 				BBB55AC11C8F80020050DDA9 /* SwiftyChronoTests.swift */,
 				BBB55AC31C8F80020050DDA9 /* Info.plist */,
@@ -1397,6 +1462,37 @@
 				C44EC67F1E583047003F0E72 /* ZHUtil.swift */,
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		C4D666AF228D49F9001A0734 /* DSL */ = {
+			isa = PBXGroup;
+			children = (
+				C4E93454228B693E0076AFC0 /* Chrono+DSL.swift */,
+				C4D666A6228D4900001A0734 /* ChronoTestCase.swift */,
+				C4D666B0228D4B4D001A0734 /* en */,
+			);
+			path = DSL;
+			sourceTree = "<group>";
+		};
+		C4D666B0228D4B4D001A0734 /* en */ = {
+			isa = PBXGroup;
+			children = (
+				C4D666B1228D4B4D001A0734 /* ENWeekdayTests.swift */,
+				C4D666B2228D4B4D001A0734 /* ENLittleEndianTests.swift */,
+				C4D666B3228D4B4D001A0734 /* ENMiddleEndianTests.swift */,
+				C4D666B4228D4B4D001A0734 /* ENSlashTests.swift */,
+				C4D666B5228D4B4D001A0734 /* ENTests.swift */,
+				C4D666B6228D4B4D001A0734 /* ENDashTests.swift */,
+				C4D666B7228D4B4D001A0734 /* ENInterStdTests.swift */,
+				C4D666B8228D4B4D001A0734 /* ENDeadlineTests.swift */,
+				C4D666B9228D4B4D001A0734 /* ENTimeAgoTests.swift */,
+				C4D666BA228D4B4D001A0734 /* ENRelativeTests.swift */,
+				C4D666BB228D4B4D001A0734 /* ENMonthTests.swift */,
+				C4D666BC228D4B4D001A0734 /* ENOptionForwardTests.swift */,
+				C4D666BD228D4B4D001A0734 /* ENTimeExpTests.swift */,
+				C4D666BE228D4B4D001A0734 /* ENCasualTests.swift */,
+			);
+			path = en;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -2169,16 +2265,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				C43A7A231E48D395005E3BFF /* TestJP.swift in Sources */,
+				C4D666DD228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
+				C4D666BF228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
+				C4D666E6228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
 				C43A795F1E484BA4005E3BFF /* TestEN.swift in Sources */,
+				C4D666D4228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
+				C4D666D1228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A79FF1E488CC2005E3BFF /* TestFR.swift in Sources */,
 				0314F3EE20E4837100A9B31D /* TestZHHans.swift in Sources */,
 				C47095C22276719500D32BA7 /* TestCA.swift in Sources */,
+				C4D666DA228D4B4D001A0734 /* ENRelativeTests.swift in Sources */,
+				C4D666AC228D496B001A0734 /* ChronoTestCase.swift in Sources */,
+				C4D666E3228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */,
 				C40E0F231E4C235100629263 /* TestDE.swift in Sources */,
+				C4D666CE228D4B4D001A0734 /* ENDashTests.swift in Sources */,
+				C4D666C5228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */,
 				C43A78251E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */,
+				C4D666CB228D4B4D001A0734 /* ENTests.swift in Sources */,
 				BBB55AC21C8F80020050DDA9 /* SwiftyChronoTests.swift in Sources */,
+				C4D666D7228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */,
+				C4D666E0228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */,
 				C44EC6A41E58ACBD003F0E72 /* testZHHant.swift in Sources */,
+				C4D666C2228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */,
 				C4B94AA31E363B9A00B703E7 /* TestUtil.swift in Sources */,
+				C4D666C8228D4B4D001A0734 /* ENSlashTests.swift in Sources */,
 				C43A79A71E486A1E005E3BFF /* TestES.swift in Sources */,
+				C4D666A8228D4926001A0734 /* Chrono+DSL.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2274,14 +2386,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				C43A7A241E48D395005E3BFF /* TestJP.swift in Sources */,
+				C4D666DE228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
+				C4D666C0228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
+				C4D666E7228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
 				C43A79601E484BA4005E3BFF /* TestEN.swift in Sources */,
+				C4D666D5228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
+				C4D666D2228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A7A001E488CC2005E3BFF /* TestFR.swift in Sources */,
 				0314F3EF20E4837200A9B31D /* TestZHHans.swift in Sources */,
+				C4E93456228B69880076AFC0 /* Chrono+DSL.swift in Sources */,
+				C4D666DB228D4B4D001A0734 /* ENRelativeTests.swift in Sources */,
 				C47095C32276719500D32BA7 /* TestCA.swift in Sources */,
+				C4D666E4228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */,
+				C4D666AD228D496B001A0734 /* ChronoTestCase.swift in Sources */,
+				C4D666CF228D4B4D001A0734 /* ENDashTests.swift in Sources */,
+				C4D666C6228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */,
 				C40E0F241E4C235100629263 /* TestDE.swift in Sources */,
+				C4D666CC228D4B4D001A0734 /* ENTests.swift in Sources */,
 				C43A78261E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */,
+				C4D666D8228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */,
+				C4D666E1228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */,
 				BBB55B151C8F8FE70050DDA9 /* SwiftyChronoTests.swift in Sources */,
+				C4D666C3228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */,
 				C44EC6A51E58ACBD003F0E72 /* testZHHant.swift in Sources */,
+				C4D666C9228D4B4D001A0734 /* ENSlashTests.swift in Sources */,
 				C4B94AA41E363B9A00B703E7 /* TestUtil.swift in Sources */,
 				C43A79A81E486A1E005E3BFF /* TestES.swift in Sources */,
 			);
@@ -2466,14 +2594,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				C43A7A251E48D395005E3BFF /* TestJP.swift in Sources */,
+				C4D666DF228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
+				C4D666C1228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
+				C4D666E8228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
 				C43A79611E484BA4005E3BFF /* TestEN.swift in Sources */,
+				C4D666D6228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
+				C4D666D3228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A7A011E488CC2005E3BFF /* TestFR.swift in Sources */,
 				0314F3F020E4837200A9B31D /* TestZHHans.swift in Sources */,
+				C4E93457228B69880076AFC0 /* Chrono+DSL.swift in Sources */,
+				C4D666DC228D4B4D001A0734 /* ENRelativeTests.swift in Sources */,
 				C47095C42276719500D32BA7 /* TestCA.swift in Sources */,
+				C4D666E5228D4B4D001A0734 /* ENTimeExpTests.swift in Sources */,
+				C4D666AE228D496C001A0734 /* ChronoTestCase.swift in Sources */,
+				C4D666D0228D4B4D001A0734 /* ENDashTests.swift in Sources */,
+				C4D666C7228D4B4D001A0734 /* ENMiddleEndianTests.swift in Sources */,
 				C40E0F251E4C235100629263 /* TestDE.swift in Sources */,
+				C4D666CD228D4B4D001A0734 /* ENTests.swift in Sources */,
 				C43A78271E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */,
+				C4D666D9228D4B4D001A0734 /* ENTimeAgoTests.swift in Sources */,
+				C4D666E2228D4B4D001A0734 /* ENOptionForwardTests.swift in Sources */,
 				BBB55B161C8F8FE80050DDA9 /* SwiftyChronoTests.swift in Sources */,
+				C4D666C4228D4B4D001A0734 /* ENLittleEndianTests.swift in Sources */,
 				C44EC6A61E58ACBD003F0E72 /* testZHHant.swift in Sources */,
+				C4D666CA228D4B4D001A0734 /* ENSlashTests.swift in Sources */,
 				C4B94AA51E363B9A00B703E7 /* TestUtil.swift in Sources */,
 				C43A79A91E486A1E005E3BFF /* TestES.swift in Sources */,
 			);
