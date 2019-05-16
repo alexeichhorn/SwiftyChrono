@@ -121,104 +121,6 @@
 		C43A78251E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A78201E48347A005E3BFF /* ChronoJSXCTestCase.swift */; };
 		C43A78261E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A78201E48347A005E3BFF /* ChronoJSXCTestCase.swift */; };
 		C43A78271E48347A005E3BFF /* ChronoJSXCTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A78201E48347A005E3BFF /* ChronoJSXCTestCase.swift */; };
-		C43A78541E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A78551E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A78561E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A78571E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A78581E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A78591E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A785A1E484B5E005E3BFF /* test_en.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782A1E484B5E005E3BFF /* test_en.js */; };
-		C43A785B1E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A785C1E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A785D1E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A785E1E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A785F1E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A78601E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A78611E484B5E005E3BFF /* test_en_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782B1E484B5E005E3BFF /* test_en_casual.js */; };
-		C43A78621E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78631E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78641E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78651E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78661E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78671E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78681E484B5E005E3BFF /* test_en_dash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782C1E484B5E005E3BFF /* test_en_dash.js */; };
-		C43A78691E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786A1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786B1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786C1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786D1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786E1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A786F1E484B5E005E3BFF /* test_en_deadline.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782D1E484B5E005E3BFF /* test_en_deadline.js */; };
-		C43A78701E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78711E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78721E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78731E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78741E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78751E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78761E484B5E005E3BFF /* test_en_inter_std.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */; };
-		C43A78771E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A78781E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A78791E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A787A1E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A787B1E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A787C1E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A787D1E484B5E005E3BFF /* test_en_little_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */; };
-		C43A787E1E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A787F1E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78801E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78811E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78821E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78831E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78841E484B5E005E3BFF /* test_en_middle_endian.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */; };
-		C43A78851E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A78861E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A78871E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A78881E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A78891E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A788A1E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A788B1E484B5E005E3BFF /* test_en_month.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78311E484B5E005E3BFF /* test_en_month.js */; };
-		C43A788C1E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A788D1E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A788E1E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A788F1E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A78901E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A78911E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A78921E484B5E005E3BFF /* test_en_option_forward.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78321E484B5E005E3BFF /* test_en_option_forward.js */; };
-		C43A78931E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78941E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78951E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78961E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78971E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78981E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A78991E484B5E005E3BFF /* test_en_relative.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78331E484B5E005E3BFF /* test_en_relative.js */; };
-		C43A789A1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A789B1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A789C1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A789D1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A789E1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A789F1E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A78A01E484B5E005E3BFF /* test_en_slash.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78341E484B5E005E3BFF /* test_en_slash.js */; };
-		C43A78A11E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A21E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A31E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A41E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A51E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A61E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A71E484B5E005E3BFF /* test_en_time_ago.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78351E484B5E005E3BFF /* test_en_time_ago.js */; };
-		C43A78A81E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78A91E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AA1E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AB1E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AC1E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AD1E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AE1E484B5E005E3BFF /* test_en_time_exp.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78361E484B5E005E3BFF /* test_en_time_exp.js */; };
-		C43A78AF1E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B01E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B11E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B21E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B31E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B41E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
-		C43A78B51E484B5E005E3BFF /* test_en_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78371E484B5E005E3BFF /* test_en_weekday.js */; };
 		C43A78B61E484B5E005E3BFF /* test_es_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78391E484B5E005E3BFF /* test_es_casual.js */; };
 		C43A78B71E484B5E005E3BFF /* test_es_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78391E484B5E005E3BFF /* test_es_casual.js */; };
 		C43A78B81E484B5E005E3BFF /* test_es_casual.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78391E484B5E005E3BFF /* test_es_casual.js */; };
@@ -387,9 +289,6 @@
 		C43A795B1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78531E484B5E005E3BFF /* test_zh_hant_weekday.js */; };
 		C43A795C1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78531E484B5E005E3BFF /* test_zh_hant_weekday.js */; };
 		C43A795D1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */ = {isa = PBXBuildFile; fileRef = C43A78531E484B5E005E3BFF /* test_zh_hant_weekday.js */; };
-		C43A795F1E484BA4005E3BFF /* TestEN.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A795E1E484BA4005E3BFF /* TestEN.swift */; };
-		C43A79601E484BA4005E3BFF /* TestEN.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A795E1E484BA4005E3BFF /* TestEN.swift */; };
-		C43A79611E484BA4005E3BFF /* TestEN.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A795E1E484BA4005E3BFF /* TestEN.swift */; };
 		C43A79631E484E76005E3BFF /* ESCasualDateParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A79621E484E76005E3BFF /* ESCasualDateParser.swift */; };
 		C43A79641E484E76005E3BFF /* ESCasualDateParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A79621E484E76005E3BFF /* ESCasualDateParser.swift */; };
 		C43A79651E484E76005E3BFF /* ESCasualDateParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43A79621E484E76005E3BFF /* ESCasualDateParser.swift */; };
@@ -885,20 +784,6 @@
 		C4169A291E307CE6007B7423 /* ENCasualDateParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ENCasualDateParser.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C43A02DC1E30A8C50041B7B1 /* ENMergeDateTimeRefiner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ENMergeDateTimeRefiner.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C43A78201E48347A005E3BFF /* ChronoJSXCTestCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChronoJSXCTestCase.swift; sourceTree = "<group>"; };
-		C43A782A1E484B5E005E3BFF /* test_en.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en.js; sourceTree = "<group>"; };
-		C43A782B1E484B5E005E3BFF /* test_en_casual.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_casual.js; sourceTree = "<group>"; };
-		C43A782C1E484B5E005E3BFF /* test_en_dash.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_dash.js; sourceTree = "<group>"; };
-		C43A782D1E484B5E005E3BFF /* test_en_deadline.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_deadline.js; sourceTree = "<group>"; };
-		C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_inter_std.js; sourceTree = "<group>"; };
-		C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_little_endian.js; sourceTree = "<group>"; };
-		C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_middle_endian.js; sourceTree = "<group>"; };
-		C43A78311E484B5E005E3BFF /* test_en_month.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_month.js; sourceTree = "<group>"; };
-		C43A78321E484B5E005E3BFF /* test_en_option_forward.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_option_forward.js; sourceTree = "<group>"; };
-		C43A78331E484B5E005E3BFF /* test_en_relative.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_relative.js; sourceTree = "<group>"; };
-		C43A78341E484B5E005E3BFF /* test_en_slash.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_slash.js; sourceTree = "<group>"; };
-		C43A78351E484B5E005E3BFF /* test_en_time_ago.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_time_ago.js; sourceTree = "<group>"; };
-		C43A78361E484B5E005E3BFF /* test_en_time_exp.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_time_exp.js; sourceTree = "<group>"; };
-		C43A78371E484B5E005E3BFF /* test_en_weekday.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_en_weekday.js; sourceTree = "<group>"; };
 		C43A78391E484B5E005E3BFF /* test_es_casual.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_es_casual.js; sourceTree = "<group>"; };
 		C43A783A1E484B5E005E3BFF /* test_es_dash.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_es_dash.js; sourceTree = "<group>"; };
 		C43A783B1E484B5E005E3BFF /* test_es_deadline.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_es_deadline.js; sourceTree = "<group>"; };
@@ -923,7 +808,6 @@
 		C43A78511E484B5E005E3BFF /* test_zh_hant_deadline.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_zh_hant_deadline.js; sourceTree = "<group>"; };
 		C43A78521E484B5E005E3BFF /* test_zh_hant_time_exp.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_zh_hant_time_exp.js; sourceTree = "<group>"; };
 		C43A78531E484B5E005E3BFF /* test_zh_hant_weekday.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test_zh_hant_weekday.js; sourceTree = "<group>"; };
-		C43A795E1E484BA4005E3BFF /* TestEN.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestEN.swift; sourceTree = "<group>"; };
 		C43A79621E484E76005E3BFF /* ESCasualDateParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESCasualDateParser.swift; sourceTree = "<group>"; };
 		C43A796A1E485743005E3BFF /* ESDeadlineFormatParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESDeadlineFormatParser.swift; sourceTree = "<group>"; };
 		C43A79721E485BC0005E3BFF /* ESUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESUtil.swift; sourceTree = "<group>"; };
@@ -1157,7 +1041,6 @@
 		C43A78281E484B5E005E3BFF /* JS */ = {
 			isa = PBXGroup;
 			children = (
-				C43A78291E484B5E005E3BFF /* en */,
 				C43A78381E484B5E005E3BFF /* es */,
 				C47095A42276719500D32BA7 /* ca */,
 				C43A78401E484B5E005E3BFF /* fr */,
@@ -1169,28 +1052,6 @@
 				C43A784E1E484B5E005E3BFF /* zh_hant */,
 			);
 			path = JS;
-			sourceTree = "<group>";
-		};
-		C43A78291E484B5E005E3BFF /* en */ = {
-			isa = PBXGroup;
-			children = (
-				C43A782A1E484B5E005E3BFF /* test_en.js */,
-				C43A782B1E484B5E005E3BFF /* test_en_casual.js */,
-				C43A782C1E484B5E005E3BFF /* test_en_dash.js */,
-				C43A782D1E484B5E005E3BFF /* test_en_deadline.js */,
-				C43A782E1E484B5E005E3BFF /* test_en_inter_std.js */,
-				C43A782F1E484B5E005E3BFF /* test_en_little_endian.js */,
-				C43A78301E484B5E005E3BFF /* test_en_middle_endian.js */,
-				C43A78311E484B5E005E3BFF /* test_en_month.js */,
-				C43A78321E484B5E005E3BFF /* test_en_option_forward.js */,
-				C43A78331E484B5E005E3BFF /* test_en_relative.js */,
-				C43A78341E484B5E005E3BFF /* test_en_slash.js */,
-				C43A78351E484B5E005E3BFF /* test_en_time_ago.js */,
-				C43A78361E484B5E005E3BFF /* test_en_time_exp.js */,
-				C43A78371E484B5E005E3BFF /* test_en_weekday.js */,
-				C43A795E1E484BA4005E3BFF /* TestEN.swift */,
-			);
-			path = en;
 			sourceTree = "<group>";
 		};
 		C43A78381E484B5E005E3BFF /* es */ = {
@@ -1721,49 +1582,37 @@
 			files = (
 				C47095E0227671CD00D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78BD1E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78A81E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB21E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78701E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79341E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78EE1E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79421E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A79571E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095DE227671CD00D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78931E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095DF227671CD00D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A792D1E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A785B1E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F3F420E483C500A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AA41E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78D91E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095DC227671CD00D32BA7 /* test_ca_dash.js in Resources */,
-				C43A78851E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790A1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78E71E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A79181E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7A9D1E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC01E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A78691E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78F51E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A788C1E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095DD227671CD00D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F3F220E483C500A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A789A1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78621E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A793B1E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F3F520E483C500A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7AB91E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A11E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A791F1E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095DA227671CD00D32BA7 /* test_ca_casual.js in Resources */,
 				0314F3F320E483C500A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78C41E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A79491E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78AF1E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78CB1E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A78FC1E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A8F1E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A78771E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D21E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A79261E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E01E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -1771,8 +1620,6 @@
 				C43A7A961E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095DB227671CD00D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79501E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A787E1E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78541E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F3F120E483C500A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79031E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78B61E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -1787,47 +1634,35 @@
 				C47095BF2276719500D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78C11E484B5E005E3BFF /* test_es_dash.js in Resources */,
 				0314F3EC20E482B400A9B31D /* test_zh_hans_deadline.js in Resources */,
-				C43A78AC1E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB61E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
 				0314F3ED20E482B400A9B31D /* test_zh_hans_weekday.js in Resources */,
 				0314F3E920E482B400A9B31D /* test_zh_hans_casual.js in Resources */,
-				C43A78741E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79381E484B5F005E3BFF /* test_system.js in Resources */,
 				C47095B92276719500D32BA7 /* test_ca_slash.js in Resources */,
 				C43A78F21E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C47095BC2276719500D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A79461E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A795B1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
-				C43A78971E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C43A79311E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A785F1E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				C47095B32276719500D32BA7 /* test_ca_dash.js in Resources */,
 				C43A7AA81E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DD1E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
-				C43A78891E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790E1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78EB1E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A791C1E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7AA11E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC41E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786D1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C47095B62276719500D32BA7 /* test_ca_time_ago.js in Resources */,
 				C43A78F91E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A78901E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
-				C43A789E1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78661E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A793F1E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				C43A7ABD1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A51E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79231E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095AD2276719500D32BA7 /* test_ca_casual.js in Resources */,
 				C43A78C81E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794D1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B31E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78CF1E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A79001E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A931E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A787B1E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D61E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A792A1E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E41E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -1837,8 +1672,6 @@
 				C47095B02276719500D32BA7 /* test_ca_time_exp.js in Resources */,
 				0314F3EB20E482B400A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A79541E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A78821E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78581E484B5E005E3BFF /* test_en.js in Resources */,
 				C43A79071E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78BA1E484B5E005E3BFF /* test_es_casual.js in Resources */,
 				C43A79151E484B5F005E3BFF /* test_fr_time_exp.js in Resources */,
@@ -1851,49 +1684,37 @@
 			files = (
 				C47095D9227671CD00D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78BE1E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78A91E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB31E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78711E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79351E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78EF1E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79431E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A79581E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095D7227671CD00D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78941E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095D8227671CD00D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A792E1E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A785C1E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F3F920E483C500A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AA51E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DA1E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095D5227671CD00D32BA7 /* test_ca_dash.js in Resources */,
-				C43A78861E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790B1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78E81E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A79191E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7A9E1E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC11E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786A1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78F61E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A788D1E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095D6227671CD00D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F3F720E483C500A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A789B1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78631E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A793C1E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F3FA20E483C500A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7ABA1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A21E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79201E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095D3227671CD00D32BA7 /* test_ca_casual.js in Resources */,
 				0314F3F820E483C500A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78C51E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794A1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B01E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78CC1E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A78FD1E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A901E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A78781E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D31E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A79271E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E11E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -1901,8 +1722,6 @@
 				C43A7A971E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095D4227671CD00D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79511E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A787F1E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78551E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F3F620E483C500A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79041E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78B71E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -1916,49 +1735,37 @@
 			files = (
 				C47095C02276719500D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78C21E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78AD1E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB71E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78751E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79391E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78F31E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79471E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A795C1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095BA2276719500D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78981E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095BD2276719500D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A79321E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A78601E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F40820E483C700A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AA91E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DE1E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095B42276719500D32BA7 /* test_ca_dash.js in Resources */,
-				C43A788A1E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790F1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78EC1E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A791D1E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7AA21E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC51E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786E1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78FA1E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A78911E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095B72276719500D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F40620E483C700A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A789F1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78671E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A79401E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F40920E483C700A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7ABE1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A61E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79241E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095AE2276719500D32BA7 /* test_ca_casual.js in Resources */,
 				0314F40720E483C700A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78C91E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794E1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B41E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78D01E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A79011E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A941E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A787C1E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D71E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A792B1E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E51E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -1966,8 +1773,6 @@
 				C43A7A9B1E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095B12276719500D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79551E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A78831E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78591E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F40520E483C700A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79081E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78BB1E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -1981,49 +1786,37 @@
 			files = (
 				C47095D2227671CD00D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78BF1E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78AA1E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB41E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78721E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79361E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78F01E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79441E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A79591E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095D0227671CD00D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78951E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095D1227671CD00D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A792F1E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A785D1E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F3FE20E483C600A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AA61E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DB1E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095CE227671CD00D32BA7 /* test_ca_dash.js in Resources */,
-				C43A78871E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790C1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78E91E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A791A1E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7A9F1E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC21E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786B1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78F71E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A788E1E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095CF227671CD00D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F3FC20E483C600A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A789C1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78641E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A793D1E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F3FF20E483C600A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7ABB1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A31E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79211E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095CC227671CD00D32BA7 /* test_ca_casual.js in Resources */,
 				0314F3FD20E483C600A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78C61E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794B1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B11E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78CD1E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A78FE1E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A911E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A78791E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D41E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A79281E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E21E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -2031,8 +1824,6 @@
 				C43A7A981E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095CD227671CD00D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79521E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A78801E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78561E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F3FB20E483C600A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79051E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78B81E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -2046,49 +1837,37 @@
 			files = (
 				C47095CB227671CC00D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78C01E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78AB1E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB51E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78731E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A79371E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78F11E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79451E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A795A1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095C9227671CC00D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78961E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095CA227671CC00D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A79301E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A785E1E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F40320E483C600A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AA71E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DC1E484B5E005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095C7227671CC00D32BA7 /* test_ca_dash.js in Resources */,
-				C43A78881E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A790D1E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78EA1E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A791B1E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7AA01E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC31E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786C1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78F81E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A788F1E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095C8227671CC00D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F40120E483C600A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A789D1E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78651E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A793E1E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F40420E483C600A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7ABC1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A41E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79221E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095C5227671CC00D32BA7 /* test_ca_casual.js in Resources */,
 				0314F40220E483C600A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78C71E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794C1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B21E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78CE1E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A78FF1E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A921E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A787A1E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D51E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A79291E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E31E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -2096,8 +1875,6 @@
 				C43A7A991E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095C6227671CC00D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79531E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A78811E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A78571E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F40020E483C600A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79061E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78B91E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -2111,49 +1888,37 @@
 			files = (
 				C47095C12276719500D32BA7 /* test_ca_deadline.js in Resources */,
 				C43A78C31E484B5E005E3BFF /* test_es_dash.js in Resources */,
-				C43A78AE1E484B5E005E3BFF /* test_en_time_exp.js in Resources */,
 				C43A7AB81E4AD3D4005E3BFF /* test_de_time_ago.js in Resources */,
-				C43A78761E484B5E005E3BFF /* test_en_inter_std.js in Resources */,
 				C43A793A1E484B5F005E3BFF /* test_system.js in Resources */,
 				C43A78F41E484B5F005E3BFF /* test_fr_dash.js in Resources */,
 				C43A79481E484B5F005E3BFF /* test_zh_hant_date.js in Resources */,
 				C43A795D1E484B5F005E3BFF /* test_zh_hant_weekday.js in Resources */,
 				C47095BB2276719500D32BA7 /* test_ca_slash.js in Resources */,
-				C43A78991E484B5E005E3BFF /* test_en_relative.js in Resources */,
 				C47095BE2276719500D32BA7 /* test_ca_little_endian.js in Resources */,
 				C43A79331E484B5F005E3BFF /* test_example.js in Resources */,
-				C43A78611E484B5E005E3BFF /* test_en_casual.js in Resources */,
 				0314F40D20E483C700A9B31D /* test_zh_hans_time_exp.js in Resources */,
 				C43A7AAA1E4AD3D4005E3BFF /* test_de_little_endian.js in Resources */,
 				C43A78DF1E484B5F005E3BFF /* test_es_time_ago.js in Resources */,
 				C47095B52276719500D32BA7 /* test_ca_dash.js in Resources */,
-				C43A788B1E484B5E005E3BFF /* test_en_month.js in Resources */,
 				C43A79101E484B5F005E3BFF /* test_fr_time_ago.js in Resources */,
 				C43A78ED1E484B5F005E3BFF /* test_fr_casual.js in Resources */,
 				C43A791E1E484B5F005E3BFF /* test_fr_weekday.js in Resources */,
 				C43A7AA31E4AD3D4005E3BFF /* test_de_deadline.js in Resources */,
 				C43A7AC61E4AD3D4005E3BFF /* test_de_weekday.js in Resources */,
-				C43A786F1E484B5E005E3BFF /* test_en_deadline.js in Resources */,
 				C43A78FB1E484B5F005E3BFF /* test_fr_deadline.js in Resources */,
-				C43A78921E484B5E005E3BFF /* test_en_option_forward.js in Resources */,
 				C47095B82276719500D32BA7 /* test_ca_time_ago.js in Resources */,
 				0314F40B20E483C700A9B31D /* test_zh_hans_date.js in Resources */,
-				C43A78A01E484B5E005E3BFF /* test_en_slash.js in Resources */,
-				C43A78681E484B5E005E3BFF /* test_en_dash.js in Resources */,
 				C43A79411E484B5F005E3BFF /* test_zh_hant_casual.js in Resources */,
 				0314F40E20E483C700A9B31D /* test_zh_hans_weekday.js in Resources */,
 				C43A7ABF1E4AD3D4005E3BFF /* test_de_time_exp.js in Resources */,
-				C43A78A71E484B5E005E3BFF /* test_en_time_ago.js in Resources */,
 				C43A79251E484B5F005E3BFF /* test_jp_casual.js in Resources */,
 				C47095AF2276719500D32BA7 /* test_ca_casual.js in Resources */,
 				0314F40C20E483C700A9B31D /* test_zh_hans_deadline.js in Resources */,
 				C43A78CA1E484B5E005E3BFF /* test_es_deadline.js in Resources */,
 				C43A794F1E484B5F005E3BFF /* test_zh_hant_deadline.js in Resources */,
-				C43A78B51E484B5E005E3BFF /* test_en_weekday.js in Resources */,
 				C43A78D11E484B5E005E3BFF /* test_es_little_endian.js in Resources */,
 				C43A79021E484B5F005E3BFF /* test_fr_little_endian.js in Resources */,
 				C43A7A951E4AD3D4005E3BFF /* test_de_casual.js in Resources */,
-				C43A787D1E484B5E005E3BFF /* test_en_little_endian.js in Resources */,
 				C43A78D81E484B5E005E3BFF /* test_es_slash.js in Resources */,
 				C43A792C1E484B5F005E3BFF /* test_jp_standard.js in Resources */,
 				C43A78E61E484B5F005E3BFF /* test_es_time_exp.js in Resources */,
@@ -2161,8 +1926,6 @@
 				C43A7A9C1E4AD3D4005E3BFF /* test_de_dash.js in Resources */,
 				C47095B22276719500D32BA7 /* test_ca_time_exp.js in Resources */,
 				C43A79561E484B5F005E3BFF /* test_zh_hant_time_exp.js in Resources */,
-				C43A78841E484B5E005E3BFF /* test_en_middle_endian.js in Resources */,
-				C43A785A1E484B5E005E3BFF /* test_en.js in Resources */,
 				0314F40A20E483C700A9B31D /* test_zh_hans_casual.js in Resources */,
 				C43A79091E484B5F005E3BFF /* test_fr_slash.js in Resources */,
 				C43A78BC1E484B5E005E3BFF /* test_es_casual.js in Resources */,
@@ -2268,7 +2031,6 @@
 				C4D666DD228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
 				C4D666BF228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
 				C4D666E6228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
-				C43A795F1E484BA4005E3BFF /* TestEN.swift in Sources */,
 				C4D666D4228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
 				C4D666D1228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A79FF1E488CC2005E3BFF /* TestFR.swift in Sources */,
@@ -2389,7 +2151,6 @@
 				C4D666DE228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
 				C4D666C0228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
 				C4D666E7228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
-				C43A79601E484BA4005E3BFF /* TestEN.swift in Sources */,
 				C4D666D5228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
 				C4D666D2228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A7A001E488CC2005E3BFF /* TestFR.swift in Sources */,
@@ -2597,7 +2358,6 @@
 				C4D666DF228D4B4D001A0734 /* ENMonthTests.swift in Sources */,
 				C4D666C1228D4B4D001A0734 /* ENWeekdayTests.swift in Sources */,
 				C4D666E8228D4B4D001A0734 /* ENCasualTests.swift in Sources */,
-				C43A79611E484BA4005E3BFF /* TestEN.swift in Sources */,
 				C4D666D6228D4B4D001A0734 /* ENDeadlineTests.swift in Sources */,
 				C4D666D3228D4B4D001A0734 /* ENInterStdTests.swift in Sources */,
 				C43A7A011E488CC2005E3BFF /* TestFR.swift in Sources */,
