@@ -11,12 +11,12 @@ import JavaScriptCore
 @testable import SwiftyChrono
 
 extension XCTestCase {
-    func ok(_ result: Bool) {
-        XCTAssert(result)
+    func ok(_ result: Bool, file: StaticString = #file, line: UInt = #line) {
+        XCTAssert(result, file: file, line: line)
     }
     
-    func ok(_ result: Bool, _ message: String) {
-        XCTAssert(result, message)
+    func ok(_ result: Bool, _ message: String, file: StaticString = #file, line: UInt = #line) {
+        XCTAssert(result, message, file: file, line: line)
     }
     
     public struct JSON {
