@@ -64,7 +64,7 @@ let DE_MONTH_OFFSET = [
     "dez": 12,
     "dez.": 12
 ]
-let DE_MONTH_OFFSET_PATTERN = "(?:" + DE_MONTH_OFFSET.keys.map{ $0.replacingOccurrences(of: ".", with: "\.") }.joined(separator: "|") + ")"
+let DE_MONTH_OFFSET_PATTERN = "(?:" + DE_MONTH_OFFSET.keys.map{ $0.replacingOccurrences(of: ".", with: "\\.") }.joined(separator: "|") + ")"
 
 let DE_INTEGER1_WORDS = [
     "einen": 1,
